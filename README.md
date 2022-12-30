@@ -45,6 +45,11 @@ To build our app, you must manually import OpenCV to `:opencv` by following step
 
 Note that this procedure is only needed after cloning this repo. You do not need to repeat this.
 
+Screenshots
+-------------------
+![Untitled](https://user-images.githubusercontent.com/72330884/210030247-87083585-bec5-4bb5-a62c-71630a730d93.png)
+
+
 Operation Procedure
 -------------------
 1. Collect Point Cloud by pressing the record button and slowly moving the smartphone left and right.
